@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\bin\Debug\netcoreapp3.1\minesweeper.exe
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\bin\Debug\netcoreapp3.1\minesweeper.deps.json
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\bin\Debug\netcoreapp3.1\minesweeper.runtimeconfig.json
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\bin\Debug\netcoreapp3.1\minesweeper.runtimeconfig.dev.json
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\bin\Debug\netcoreapp3.1\minesweeper.dll
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\bin\Debug\netcoreapp3.1\minesweeper.pdb
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\obj\Debug\netcoreapp3.1\minesweeper.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\obj\Debug\netcoreapp3.1\minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\obj\Debug\netcoreapp3.1\minesweeper.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\obj\Debug\netcoreapp3.1\minesweeper.AssemblyInfo.cs
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\obj\Debug\netcoreapp3.1\minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\obj\Debug\netcoreapp3.1\minesweeper.dll
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\obj\Debug\netcoreapp3.1\minesweeper.pdb
+C:\Users\Student\Desktop\ConnectFour\mineSweeper\minesweeper\minesweeper\obj\Debug\netcoreapp3.1\minesweeper.genruntimeconfig.cache
